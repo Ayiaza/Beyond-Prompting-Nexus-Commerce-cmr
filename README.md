@@ -1,7 +1,6 @@
-## NEXUS-COMMERCE
-NEXUS-COMMERCE is an e-commerce website with a built-in mini CRM, built with HTML, CSS and JavaScript.
-Customers can browse and buy products, while admins manage customers, orders and sales from one dashboard.
-----
+## NEXUS COMMERCE
+Nexus Commerce is an e-commerce website with a built-in mini CRM, HTML, CSS and JavaScript.
+Customers can browse and buy products, while Admins manage customers, orders and sales from one dashboard.
 ## ✨ Features
 
 ### 🛍️ Storefront
