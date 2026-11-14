@@ -45,5 +45,3 @@ This project was built with an AI assistant (Claude). Below are the prompts used
 | CRM | Customers and orders are separate lists linked by customer id |
 | Security | All user text is HTML-escaped before being rendered |
 
-## My own prompts and experiments
-_Add the prompts you tried yourself, what went wrong, and how you fixed it._
