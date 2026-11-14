@@ -1,9 +1,7 @@
-# NEXUS-COMMERCE
-
+## NEXUS-COMMERCE
 NEXUS-COMMERCE is an e-commerce website with a built-in mini CRM, built with HTML, CSS and JavaScript.
 Customers can browse and buy products, while admins manage customers, orders and sales from one dashboard.
----
-
+----
 ## ✨ Features
 
 ### 🛍️ Storefront
@@ -77,3 +75,9 @@ The prompts used to build this project, with refinements and lessons learned, ar
 ## 📄 License
 MIT
 ## ▶️ Execution 
+[Screen Recording 2026-11-14 224335.zip](https://github.com/user-attachments/files/34857585/Screen.Recording.2026-11-14.224335.zip)
+
+## ▶️ Screenshots
+<img width="950" height="494" alt="image" src="https://github.com/user-attachments/assets/b50bd14e-b848-417f-9c13-9993714eba0e" />
+
+<img width="944" height="458" alt="image" src="https://github.com/user-attachments/assets/e0c0b4b1-1ff6-4ac8-943b-d4534d15542d" />
